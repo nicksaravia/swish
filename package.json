@@ -1,0 +1,25 @@
+{
+  "name": "swish",
+  "version": "0.0.1",
+  "description": "a super sweet component library",
+  "source": "src/index.ts",
+  "main": "dist/index.js",
+  "module": "dist/module.js",
+  "types": "dist/types.d.ts",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build"
+  },
+  "dependencies": {
+    "@types/react": "^18.0.26",
+    "react": "^18.2.0",
+    "typescript": "^4.9.4"
+  },
+  "devDependencies": {
+    "@parcel/packager-ts": "^2.8.2",
+    "@parcel/transformer-typescript-types": "^2.8.2",
+    "parcel": "^2.8.2"
+  },
+  "author": "Nick Saravia",
+  "license": "ISC"
+}
