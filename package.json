@@ -1,6 +1,6 @@
 {
   "name": "@nicksaravia/swish-swish",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "a super sweet component library",
   "source": "src/index.ts",
   "main": "dist/index.js",
